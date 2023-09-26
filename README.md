@@ -36,4 +36,4 @@ Home page displays options to Shop for Shoes, Login and Cart.
 <b>Backend</b> - Spring boot , Maven , Java , Spring Security <br>
 <b>Database</b> - H2 Database <br>
 
-Link:https://github.com](https://github.com/sammmy123/sporty-shoes)https://github.com/sammmy123/sporty-shoes
+Link:https://github.com/sammmy123/sporty-shoes
